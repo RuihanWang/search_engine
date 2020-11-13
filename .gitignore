@@ -1,0 +1,8 @@
+.idea
+cacm/tokenizedDocs/*
+luceneIndex/*
+out/
+runOutput/*
+Corpus-Stats.txt
+project.iml
+Unstemmed-Index.txt
